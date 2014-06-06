@@ -1,0 +1,26 @@
+{
+  "name": "hero",
+  "version": "0.0.0",
+  "description": "t",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apollooo/heroku.git"
+  },
+  "keywords": [
+    "t"
+  ],
+  "author": "apollo",
+  "license": "mit",
+  "bugs": {
+    "url": "https://github.com/apollooo/heroku/issues"
+  },
+  "homepage": "https://github.com/apollooo/heroku",
+  "dependencies": {
+    "express": "^4.4.1",
+    "logfmt": "^1.1.2"
+  }
+}
